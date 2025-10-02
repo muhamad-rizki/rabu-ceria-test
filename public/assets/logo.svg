@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title desc" role="img">
+  <title id="title">Logo Forum Rabu Ceria</title>
+  <desc id="desc">Ikon lingkaran dengan senyuman dan gelembung percakapan</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="120" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0EA5E9"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="56" stroke="url(#g)" stroke-width="8" fill="white"/>
+  <path d="M36 58c0-10.5 8.5-19 19-19h10c10.5 0 19 8.5 19 19s-8.5 19-19 19h-7l-9 8c-1.9 1.7-4.9.3-4.9-2.2V77C39 71 36 65 36 58z" fill="url(#g)" opacity="0.12"/>
+  <circle cx="45" cy="54" r="4" fill="#0F172A"/>
+  <circle cx="75" cy="54" r="4" fill="#0F172A"/>
+  <path d="M45 74c4.5 4 25.5 4 30 0" stroke="#0F172A" stroke-width="4" stroke-linecap="round"/>
+</svg>
